@@ -7,8 +7,8 @@
     <ProjectGuid>{85DC8F61-487E-4E6A-8FA8-5B086017607F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KinectServerV4</RootNamespace>
-    <AssemblyName>KinectServerV4</AssemblyName>
+    <RootNamespace>General.Purpose.Kinect.Server</RootNamespace>
+    <AssemblyName>General.Purpose.Kinect.Server</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -69,7 +69,7 @@
     <Reference Include="Microsoft.Kinect, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.Kinect.Tools, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64" />
     <Reference Include="QuakeSimulatorNetworkLibrary">
-      <HintPath>..\..\QuakeSimulatorNetworkLibrary\QuakeSimulatorNetworkLibrary\bin\Release\QuakeSimulatorNetworkLibrary.dll</HintPath>
+      <HintPath>Library\QuakeSimulatorNetworkLibrary.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />

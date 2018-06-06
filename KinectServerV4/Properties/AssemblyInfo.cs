@@ -7,8 +7,8 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("KinectServerV4")]
-[assembly: AssemblyDescription("Server kinect per realtà virtuale")]
+[assembly: AssemblyTitle("General Purpose Kinect Server")]
+[assembly: AssemblyDescription("General Purpose Kinect Server to record and share user movements")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Davide Galdo")]
 [assembly: AssemblyProduct("KinectServerV4")]
